@@ -2,6 +2,7 @@
 heading = """
 =========================================
          Created by: Aayush Singh
+               From:Nepal
 -----------------------------------------
    🔢 Enter a Number to Check Whether
      It's Positive, Negative, or Zero
